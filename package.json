@@ -1,0 +1,17 @@
+{
+  "name": "passworder",
+  "version": "0.0.1",
+  "main": "passworder.js",
+  "scripts": {},
+  "keywords": [
+    "password generator"
+  ],
+  "author": "Marcus Blanco",
+  "license": "ISC",
+  "description": "a simple password generator",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.2.0"
+  }
+}
