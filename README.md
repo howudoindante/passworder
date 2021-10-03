@@ -6,3 +6,6 @@
 -in, --include <number> include numbers in password (default: true)<br>
 -s, --save <filename.ext> If setted, password will saved to file<br>
 -h, --help display help for command<br>
+
+  
+  ***node passworder*** to run
